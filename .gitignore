@@ -1,0 +1,5 @@
+*.py[p4]
+__pycache__/
+temp_excel_extraction/
+*.xlsx
+.vscode/
