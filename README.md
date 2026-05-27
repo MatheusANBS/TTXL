@@ -1,6 +1,6 @@
 # <img src="assets/icon_excel.png" width="40" height="40"> Excel Sheet Unlocker
 
-A professional tool designed to remove sheet and workbook protection from `.xlsx` files by manipulating the underlying XML structure.
+A tool designed to remove sheet and workbook protection from `.xlsx` files by manipulating the underlying XML structure.
 
 ## <img src="assets/icon_unlock.png" width="30" height="30"> Features
 
